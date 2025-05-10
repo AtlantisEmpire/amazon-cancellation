@@ -1,6 +1,6 @@
-#  Amazon Apparel Cancellation Analysis
+#  Amazon  Cancellation Analysis
 
-This project analyzes cancellation patterns in Amazon apparel orders, aiming to identify key factors contributing to cancellations. Using SQL for data manipulation and analysis, and Power BI for interactive visualizations, the project uncovers trends and insights to inform strategies for reducing order cancellations.
+This project analyzes cancellation patterns in Amazon  orders, aiming to identify key factors contributing to cancellations. Using SQL for data manipulation and analysis, and Power BI for interactive visualizations, the project uncovers trends and insights to inform strategies for reducing order cancellations.
 
 
 
