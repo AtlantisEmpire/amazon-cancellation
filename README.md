@@ -5,8 +5,8 @@ This project analyzes cancellation patterns in Amazon  orders, aiming to identif
 
 
 ## Data Source
-
--   Dataset is from kaggle, it contains sales transaction data.
+- 
+-   Dataset is from kaggle {https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data} , it contains sales transaction data.
 -   Key columns include: `Order ID`, `Date`, `Status`, `Fulfilment`, `Category`, `Size`, `Amount`, `ship-city`, `ship-state`, `ship-country`, etc.
 
 
